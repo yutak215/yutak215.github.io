@@ -97,7 +97,11 @@ header.startup h1 {
 }
 
 .validate {
-  text-align: center;
+  text-align: center !important;
+}
+
+.clear {
+  text-align: center !important;
 }
 
 

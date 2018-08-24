@@ -1,0 +1,101 @@
+
+body,
+html {
+  width: 100%;
+  height: 100%; 
+}
+
+body {
+  font-family: 'Baloo Bhai', sans-serif;
+}
+
+hr {
+  max-width: 65px;
+  border-width: 3px;
+  border-color: #F05F44; 
+}
+
+.faded {
+  color: rgba(255, 255, 255, 0.8); 
+}
+
+header.startup {
+  background-position: center;
+  background-image: url("laptop.jpg");
+  background-size: cover;
+  height: 100%;
+}
+
+header.startup hr {
+  margin-top: 200px;
+  margin-bottom: 30px; 
+}
+
+header.startup h1 {
+  font-size: 2rem; 
+}
+
+.content {
+	font-size: 3rem;
+}
+
+.are {
+	color: #DE3440
+}
+
+.you {
+	color: #E39935
+}
+
+.ready {
+	color: #DBE235
+}
+
+.to {
+	color: #2BB62B
+}
+
+.change {
+	color: #304E99
+}
+
+.the {
+	color: #5C2E9A
+}
+
+.world {
+	color: #B02981
+}
+
+.last {
+	color: #E13539
+}
+
+.btn {
+  font-weight: 700;
+  /*text-transform: uppercase;*/
+  border-radius: 300px;
+  font-family: 'Baloo Bhai', sans-serif;
+}
+
+.btn-xl {
+  padding: 0.5rem 1.5rem; 
+}
+
+.btn-primary {
+  background-color: #F05F44;
+  border-color: #F05F44; }
+
+.btn-primary:hover {
+  background-color: #ee4b08;
+  border-color: #ee4b08;
+  border-width: 5px;
+  cursor: pointer;
+  transition: 500ms ease;
+  transform: scale(3);
+}
+
+
+
+
+

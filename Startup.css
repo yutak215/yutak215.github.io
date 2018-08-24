@@ -76,6 +76,7 @@ header.startup h1 {
   /*text-transform: uppercase;*/
   border-radius: 300px;
   font-family: 'Baloo Bhai', sans-serif;
+  text-align: center;
 }
 
 .btn-xl {
